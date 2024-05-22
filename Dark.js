@@ -1,0 +1,7 @@
+
+
+
+class Dark {
+    private constructor() {}
+
+  }
